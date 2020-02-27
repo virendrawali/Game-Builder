@@ -1,4 +1,4 @@
-# Team2-Week6_7
+# Game Builder
 # Introduction
 Game maker application can be used to develop games like MineSweeper, PacMan, Frogger and Space Invader.
 ## Tools used:
